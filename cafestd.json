@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "nintendo_NTLG-DB_002",
+    "previewText": "Nintendo",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/LatteWiiU/CafeSTD/raw/main/CafeSTD.ttf",
+        "ggsans-Bold": "https://github.com/LatteWiiU/CafeSTD/raw/main/CafeSTD.ttf",
+        "ggsans-BoldItalic": "https://github.com/LatteWiiU/CafeSTD/raw/main/CafeSTD.ttf",
+        "ggsans-ExtraBold": "https://github.com/LatteWiiU/CafeSTD/raw/main/CafeSTD.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/LatteWiiU/CafeSTD/raw/main/CafeSTD.ttf",
+        "ggsans-Medium": "https://github.com/LatteWiiU/CafeSTD/raw/main/CafeSTD.ttf",
+        "ggsans-MediumItalic": "https://github.com/LatteWiiU/CafeSTD/raw/main/CafeSTD.ttf",
+        "ggsans-Normal": "https://github.com/LatteWiiU/CafeSTD/raw/main/CafeSTD.ttf",
+        "ggsans-NormalItalic": "https://github.com/LatteWiiU/CafeSTD/raw/main/CafeSTD.ttf",
+        "ggsans-Semibold": "https://github.com/LatteWiiU/CafeSTD/raw/main/CafeSTD.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/LatteWiiU/CafeSTD/raw/main/CafeSTD.ttf",
+        "NotoSans-Bold": "https://github.com/LatteWiiU/CafeSTD/raw/main/CafeSTD.ttf",
+        "NotoSans-ExtraBold": "https://github.com/LatteWiiU/CafeSTD/raw/main/CafeSTD.ttf",
+        "NotoSans-Medium": "https://github.com/LatteWiiU/CafeSTD/raw/main/CafeSTD.ttf",
+        "NotoSans-Normal": "https://github.com/LatteWiiU/CafeSTD/raw/main/CafeSTD.ttf",
+        "NotoSans-NormalItalic": "https://github.com/LatteWiiU/CafeSTD/raw/main/CafeSTD.ttf",
+        "NotoSans-Semibold": "https://github.com/LatteWiiU/CafeSTD/raw/main/CafeSTD.ttf",
+        "SourceCodePro-Semibold": "https://github.com/LatteWiiU/CafeSTD/raw/main/CafeSTD.ttf"
+    }
+}
